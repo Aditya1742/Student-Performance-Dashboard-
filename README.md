@@ -46,23 +46,12 @@ The dataset contains 850 student records with the following columns:
 
 The analysis reveals score distributions and allows grade assignment. Visualizations highlight areas of strength and weakness among students.
 
----
-
-## Contribution
-
-Contributions and improvements are welcome. Please fork the repository and submit pull requests.
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
 ## Contact
 
-For questions or feedback, please contact: your.email@example.com
+For questions or feedback, please contact: adityaakumarr2004@gmail.com
 
 ---
 
